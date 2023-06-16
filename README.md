@@ -15,6 +15,10 @@ https://drive.google.com/drive/folders/1XVNu6fGEJBj6Dqp2_i9Xl6JZTCUWYFNz
 
 TODO:
 
-Use language model file for better prediction\n
-GUI for speech recognition\n
+Use language model file for better prediction
+
+
+GUI for speech recognition
+
+
 implement Beam search for decoding
